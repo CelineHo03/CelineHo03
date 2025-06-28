@@ -6,8 +6,6 @@
 - 🤖 Passionate about Data & AI: Built 85% accurate NLP-to-SQL interface, optimized LLM architectures
 - 🌍 Multilingual: English, Vietnamese (native), French, Chinese - love connecting across cultures
 
-## Tech Stack 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thien-huong-ho-299742200/) 
 
