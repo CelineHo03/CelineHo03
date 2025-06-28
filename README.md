@@ -6,6 +6,17 @@
 - 🤖 Passionate about Data & AI: Built 85% accurate NLP-to-SQL interface, optimized LLM architectures
 - 🌍 Multilingual: English, Vietnamese (native), French, Chinese - love connecting across cultures
 
+## 🚀 Currently Working On
+- 🔍 **Job Search**: Seeking Data Scientist roles where I can drive $M+ business impact
+- 📊 **Portfolio Enhancement**: Building customer segmentation and predictive analytics showcases
+- 🤖 **AI/ML Projects**: Expanding NLP capabilities and MLOps best practices
+
+## 🏆 Featured Projects
+- 🤖 **[DataWorksAI](link)** - NLP-to-SQL interface with 85% accuracy, automating 70% of queries
+- 📈 **[FIA Personality Assessment](link)** - 49% completion rate vs 20-30% industry standard  
+- 💰 **[Revenue Recovery Analysis](link)** - Fraud detection system recovering $1M+ in revenue
+- 📊 **[Customer Analytics Dashboard](link)** - Real-time insights reducing reporting time 24hrs → 15min
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thien-huong-ho-299742200/) 
 
