@@ -15,7 +15,7 @@
 - 🤖 **[DataWorksAI](https://github.com/hemadataworksai/ipedsllm_accuracy_Fall2024)  ** - Contributed to NLP-to-SQL interface achieving 85% accuracy. *Collaborative project with Professor [Hema]*
 - 📈 **[FIA Personality Assessment](https://fia-relationship-assessment.vercel.app)** - 49% completion rate vs 20-30% industry standard  
 - 💰 **[Fraud detecting tool](link)** - Fraud detection system recovering $1M+ in revenue
-- 📊 **[Sales & Customer Analytics Dashboard](https://public.tableau.com/views/SalesCustomerDashboards_17417397191060/SalesDashboard?:embed=yes&amp;:showVizHome=no&amp;:toolbar=yes" width="1200" height="827" frameborder="0" scrolling="no" sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-forms allow-popups allow-popups-to-escape-sandbox")** - Real-time insights reducing reporting time 24hrs → 15min
+- 📊 **[Sales & Customer Analytics Dashboard](https://public.tableau.com/views/SalesCustomerDashboards_17417397191060/SalesDashboard?%3Aembed=yes&amp%3B%3AshowVizHome=no&amp%3B%3Atoolbar=yes#1)** - Real-time insights reducing reporting time 24hrs → 15min
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thien-huong-ho-299742200/) 
