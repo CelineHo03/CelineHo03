@@ -12,7 +12,7 @@
 - 🤖 **AI/ML Projects**: Expanding NLP capabilities and MLOps best practices
 
 ## 🏆 Featured Projects
-- 🤖 **[DataWorksAI](https://github.com/hemadataworksai/ipedsllm_accuracy_Fall2024)  ** - Contributed to NLP-to-SQL interface achieving 85% accuracy. My role: ETL process standardization, training data curation (1000+ pairs), and documentation that reduced analyst training from 10→3 days. *Collaborative project with Professor [Hema]*
+- 🤖 **[DataWorksAI](https://github.com/hemadataworksai/ipedsllm_accuracy_Fall2024)  ** - Contributed to NLP-to-SQL interface achieving 85% accuracy. *Collaborative project with Professor [Hema]*
 - 📈 **[FIA Personality Assessment](link)** - 49% completion rate vs 20-30% industry standard  
 - 💰 **[Revenue Recovery Analysis](link)** - Fraud detection system recovering $1M+ in revenue
 - 📊 **[Customer Analytics Dashboard](link)** - Real-time insights reducing reporting time 24hrs → 15min
